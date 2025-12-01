@@ -2,7 +2,7 @@
 
 ## Overview
 
-Zenith is an end-to-end Agentic AI application that demonstrates LangGraph's capabilities for building modular, stateful AI workflows. The project is adapted from Krish Naik's Agentic AI Project and implements a multi-use-case chatbot system with tool integration.
+Zenith is an end-to-end Agentic AI application that demonstrates LangGraph's capabilities for building modular, stateful AI workflows. It implements a multi-use-case chatbot system with tool integration.
 
 ## Architecture
 
@@ -323,7 +323,6 @@ Manual testing checklist:
 
 ## References
 
-- [Original Project by Krish Naik](https://github.com/krishnaik06/Agentic-Ai-Project)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [LangChain Documentation](https://python.langchain.com/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
@@ -336,5 +335,4 @@ Apache 2.0
 
 ## Contributors
 
-- Original: Krish Naik
-- Adaptation: Tarun Wuyyuru
+- Tarun Wuyyuru

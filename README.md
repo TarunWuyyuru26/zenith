@@ -1,6 +1,6 @@
 # Zenith AI Assistant
 
-An end-to-end Agentic AI application built with LangGraph and Streamlit, adapted from [krishnaik06/Agentic-Ai-Project](https://github.com/krishnaik06/Agentic-Ai-Project).
+An end-to-end Agentic AI application built with LangGraph and Streamlit.
 
 ## 🌟 Features
 
