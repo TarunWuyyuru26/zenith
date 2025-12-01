@@ -30,3 +30,4 @@ streamlit
 tavily-python
 uvicorn
 wikipedia
+watchdog
