@@ -103,7 +103,3 @@ Edit `Code/ui/config.ini` to customize settings.
 - LangChain & LangGraph
 - Streamlit
 - Groq & Tavily APIs
-
-## 🙏 Acknowledgments
-
-Original project by [Krish Naik](https://github.com/krishnaik06)
